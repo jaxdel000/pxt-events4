@@ -1,5 +1,5 @@
 {
-    "name": "events4",
+    "name": "randomNumber",
     "dependencies": {
         "device": "*"
     },
